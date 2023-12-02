@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sagar Kori<br>I'm a passionate full stack developer
+I'm Sagar Kori<br>I'm a passionate full stack developer<br/>Reach me out at sagarkoriup11@gmail.com
 
 
 ## 🌐 Socials:
