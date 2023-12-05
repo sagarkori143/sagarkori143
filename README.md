@@ -17,5 +17,6 @@ I'm Sagar Kori<br>I'm a passionate full stack developer<br/>Reach me out at saga
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sagarkori143&icon=0&color=0)](https://visitcount.itsvg.in)
+</a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
