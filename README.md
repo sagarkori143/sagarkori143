@@ -15,12 +15,7 @@ I'm Sagar Kori<br>I'm a passionate full stack developer<br/>Reach me out at saga
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-[![](https://visitcount.itsvg.in/api?id=sagarkori143&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![](https://komarev.com/ghpvc/?username=sagarkori143&color=green)
-
-[![](https://visitcount.itsvg.in/api?id=sagarkori143&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
