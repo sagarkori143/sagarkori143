@@ -1,5 +1,22 @@
-# 💫 About Me:
-I'm Sagar Kori<br>I'm a passionate full stack developer<br/>Reach me out at sagarkoriup11@gmail.com
+<div> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=45&vCenter=true&width=500&lines=Hey+Visitor!!+%F0%9F%91%8B;I+am+Sagar+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
+
+<img src="coding boy.gif" width="400px" alt=gif align="right"> 
+</div>
+  <br />
+  <br/>
+  <br/>
+
+  - 🔭 I’m currently working on Web Development
+  - 🌱 I’m currently learning: Next.js
+  - 💬 Ask me about: C++, Competitive Programming, Web Development
+  - 📫 How to reach me: Through [mail](mailto:sagarkoriup11@gmail.com) and [linkedin](https://www.linkedin.com/in/sagarkori143/)
+
+<br />
+<br />
+<br />
+<br />
 
 
 ## 🌐 Socials:
