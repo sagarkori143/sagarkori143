@@ -18,7 +18,8 @@
 <br />
 <br />
 
-
+##
+![](https://komarev.com/ghpvc/?username=sagarkori143&color=blue)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagarkori143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkori143d) 
 
@@ -32,7 +33,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://komarev.com/ghpvc/?username=sagarkori143&color=green)
+
 
 ---
 
