@@ -11,7 +11,7 @@
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning: Next.js
   - 💬 Ask me about: C++, Competitive Programming, Web Development
-  - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) .
+  - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) 
 
 <br />
 <br />
