@@ -103,7 +103,7 @@
 # My GitHub Stats 📊
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=sagarkori143&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=sagarkori143&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 <p align="center">
