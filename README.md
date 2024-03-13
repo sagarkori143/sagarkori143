@@ -23,23 +23,116 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff"> <br>
 
-# 💻 Tech Stack:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-# 📊 GitHub Stats:
+
+## My Tech Stack 👨‍💻
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagarkori143&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkori143&theme=dark&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkori143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <table>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C#
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+        <br>Django
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+        <br>Git
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+        <br>HTML5
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+        <br>CSS
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+        <br>Node.js
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+        <br>Flask
+      </td>
+      <!-- Add more items if needed -->
+  </table>
 </div>
 
+# My GitHub Stats 📊
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=sagarkori143&data=followers,repositories,stars,commits' />
+</p>
+
+<p align="center">
 
 
+<a href="https://github.com/SadeekFarhan21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sagarkori143&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@SadeekFarhan21's github-readme-stats"/></a>
+<a href="https://github.com/SadeekFarhan21?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sagarkori143&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@sagarkori143's github-readme-streak-stats"/></a>
 
----
+</p>
 
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="[https://wakatime.com/@sagarkori143](https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Sagar kori's activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkori143&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="SadeekFarhan21 :: Top Langs" />
+<a href="https://github.com/sagarkori143?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="Sagar Kori's trophies"/></a>
+</p>
+
+## Contact me 📮
+<div>
+  <a href = "mailto:sagarkoriup11@gmail.com"><img src="https://img.shields.io/badge/Outlook-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
