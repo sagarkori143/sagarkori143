@@ -128,7 +128,7 @@
 
 ## Contact me 📮
 <div>
-  <a href = "mailto:sagarkoriup11@gmail.com"><img src="https://img.shields.io/badge/Outlook-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
+  <a href = "mailto:sagarkoriup11@gmail.com"><img src="https://img.shields.io/badge/Email-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
 
 </div>
 
