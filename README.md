@@ -94,7 +94,7 @@
       </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
-        <br>Flask
+        <br>Jest
       </td>
       <!-- Add more items if needed -->
   </table>
