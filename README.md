@@ -93,7 +93,7 @@
         <br>Node.js
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
         <br>Flask
       </td>
       <!-- Add more items if needed -->
