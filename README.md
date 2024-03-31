@@ -119,7 +119,7 @@
     <a href="[https://wakatime.com/@sagarkori143](https://github-readme-activity-graph.vercel.app/graph?username=sagarkori143&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
         </a>
 </p>
-<!-- activity graph heroku-app end -->
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkori143&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="SadeekFarhan21 :: Top Langs" />
