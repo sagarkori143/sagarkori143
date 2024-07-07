@@ -9,7 +9,7 @@
   <br/>
 
   - 🔭 I’m currently working on Web Development
-  - 🌱 I’m currently learning: Next.js
+  - 🌱 I’m currently learning: Angular
   - 💬 Ask me about: C++, Competitive Programming, Web Development
   - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) 
 
