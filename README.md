@@ -8,7 +8,7 @@
   <br/>
   <br/>
 
-  - 🔭 I’m currently working on Big Project
+  - 🔭 I’m currently working on a big personal project
   - 🌱 I’m currently learning: DevOps
   - 💬 Ask me about: C++, Competitive Programming, Web Development
   - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) 
@@ -39,6 +39,10 @@
         <br>Python
       </td>
       <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Python" width="65" height="65" />
+        <br>Golang
+      </td>
+      <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
       </td>
@@ -55,12 +59,8 @@
         <br>AWS
       </td>
       <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <br>C#
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-        <br>Django
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
       </td>
     </tr>
     <tr>
