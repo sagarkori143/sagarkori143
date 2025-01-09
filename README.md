@@ -8,8 +8,8 @@
   <br/>
   <br/>
 
-  - 🔭 I’m currently working on Web Development
-  - 🌱 I’m currently learning: Angular
+  - 🔭 I’m currently working on Big Project
+  - 🌱 I’m currently learning: DevOps
   - 💬 Ask me about: C++, Competitive Programming, Web Development
   - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) 
 
