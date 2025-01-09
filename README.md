@@ -39,7 +39,7 @@
         <br>Python
       </td>
       <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
         <br>Golang
       </td>
       <td align="center" width="12.5%">
