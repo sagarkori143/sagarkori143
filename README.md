@@ -8,7 +8,7 @@
   <br/>
   <br/>
 
-  - 🔭 I’m currently working on a big personal project
+  - 🔭 I’m currently working on my GSoC project.
   - 🌱 I’m currently learning: DevOps
   - 💬 Ask me about: C++, Competitive Programming, Web Development
   - 📫 Reach me through [Mail](mailto:sagarkoriup11@gmail.com) 
