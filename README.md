@@ -102,10 +102,6 @@
 
 # My GitHub Stats 📊
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=sagarkori143&theme=darkmode&data=followers,repositories,stars,commits' />
-</p>
-
 <p align="center">
 
 
@@ -126,12 +122,3 @@
 <a href="https://github.com/sagarkori143?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=sagarkori143&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="Sagar Kori's trophies"/></a>
 </p>
 
-## Contact me 📮
-<div>
-  <a href = "mailto:sagarkoriup11@gmail.com"><img src="https://img.shields.io/badge/Email-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
