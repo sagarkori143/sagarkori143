@@ -8,8 +8,8 @@
   <br/>
   <br/>
 
-  - 🔭 I’m currently working on my GSoC project.
-  - 🌱 I’m currently building Scalable Systems.
+  - 🔭 I’m currently working on a Personal Project.
+  - 🌱 I’m currently building Scalable Systems and learning on the GO.
 
 <br />
 <br />
