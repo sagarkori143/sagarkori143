@@ -8,8 +8,8 @@
   <br/>
   <br/>
 
-  - 🔭 I’m currently working on a Personal Project.
-  - 🌱 I’m currently building Scalable Systems.
+  - 🔭 Currently working on a Personal Project.
+  - 🌱 Currently building Scalable Systems.
 
 <br />
 <br />
