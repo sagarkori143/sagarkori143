@@ -9,7 +9,7 @@
   <br/>
 
   - 🔭 I’m currently working on a Personal Project.
-  - 🌱 I’m currently building Scalable Systems and learning on the GO.
+  - 🌱 I’m currently building Scalable Systems.
 
 <br />
 <br />
